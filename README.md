@@ -1,1 +1,1 @@
-# rsschool-cv
+https://infique.github.io/rsschool-cv/cv
