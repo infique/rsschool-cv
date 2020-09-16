@@ -29,7 +29,7 @@ Junior Front-End developer without experience, but who is ready to learn fast an
   * Feb 2020 – Aug 2020 
   * A-level IT School 
   * Front-End Advanced
-  ___
+  ---
   * Dec 2018 –  Mar 2019 
   * Ukrainian IT School 
   * Front-End Basic
@@ -37,7 +37,7 @@ Junior Front-End developer without experience, but who is ready to learn fast an
   * Sept 2016 – Mar 2017
   * Kharkiv National University of Internal
   * Affairs Specialist (Law)
-  ___
+  ---
   * Sept 2010 – Mar 2016
   * Kharkiv National University of Economics 
   * Master (Finance)
