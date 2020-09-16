@@ -29,6 +29,10 @@ Junior Front-End developer without experience, but who is ready to learn fast an
 * A-level IT School 
 * Front-End Advanced
 ___
+* Dec 2018 –  Mar 2019 
+* Ukrainian IT School 
+* Front-End Basic
+___
 * Sept 2016 – Mar 2017
 * Kharkiv National University of Internal
 * Affairs Specialist (Law)
