@@ -25,23 +25,24 @@ Junior Front-End developer without experience, but who is ready to learn fast an
 * ◾◾◽◽◽ Git
 
 ## Education ##
-* Feb 2020 – Aug 2020 
-* A-level IT School 
-* Front-End Advanced
-___
-* Dec 2018 –  Mar 2019 
-* Ukrainian IT School 
-* Front-End Basic
-___
-* Sept 2016 – Mar 2017
-* Kharkiv National University of Internal
-* Affairs Specialist (Law)
-___
-* Sept 2010 – Mar 2016
-* Kharkiv National University of Economics 
-* Master (Finance)
+##### Courses #####
+  * Feb 2020 – Aug 2020 
+  * A-level IT School 
+  * Front-End Advanced
+  ___
+  * Dec 2018 –  Mar 2019 
+  * Ukrainian IT School 
+  * Front-End Basic
+##### Universities #####
+  * Sept 2016 – Mar 2017
+  * Kharkiv National University of Internal
+  * Affairs Specialist (Law)
+  ___
+  * Sept 2010 – Mar 2016
+  * Kharkiv National University of Economics 
+  * Master (Finance)
 
 #### Language ####
-- English - Pre-intermediate
+- English - Pre-intermediate(A2+ EPAM Training center)
 - Russian - Native
 - Ukrainian - Native
